@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: kimanuul's blog
+subtitle: '첫 연습인데 어렵네여'
+description: '과연 이대로 잘 갈 수 있을까여?'
 keywords:
-author: John Doe
+author: HANWOOL KIM
 language: en
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://kimanuul.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -100,6 +100,7 @@ ignore:
 theme: landscape
 
 # Deployment
-## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/kimanuul/kimanuul.github.io.git
+  branch: main
