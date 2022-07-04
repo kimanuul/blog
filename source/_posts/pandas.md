@@ -6061,7 +6061,7 @@ ts.plot()
 
 
     
-![png](source/images/pandas/output_89_1.png)
+![](images/pandas/output_89_1.png)
     
 
 
