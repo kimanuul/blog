@@ -64,7 +64,7 @@ plt.show()
 
 
     
-![png](images/day0630_ml/output_10_0.png)
+![](images/day0630_ml/output_10_0.png)
     
 
 
@@ -85,7 +85,7 @@ plt.show()
 
 
     
-![png](images/day0630_ml/output_12_0.png)
+![](images/day0630_ml/output_12_0.png)
     
 
 
@@ -112,7 +112,7 @@ plt.show()
 
 
     
-![png](images/day0630_ml/output_16_0.png)
+![](images/day0630_ml/output_16_0.png)
     
 
 
